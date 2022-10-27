@@ -2,7 +2,7 @@
 
 "Project Purple" is a host of Siri Shortcuts and other dependencies designed to make your life at FedEx more manageable through software. From managing your Timecard through a calendar, calculating your worked hours, to a simple Stops per Hour calculator, this suite of shortcuts will help you accomplish all you need and more. The entire suite is managed through the FedEx Timecard Shortcut making it a one-stop-shop easy way for you to do anything and everything you may need to do!
 
-To get started, download the “FXE Timecard Manager” Shortcut. This will have all the tools needed. Including checking for updates, getting started, and a master reset button.
+To get started, download the “FXE Update Manager” Shortcut. This will have all the tools needed. Including checking for updates, getting started, and a master reset button. Please be sure to follow the steps in order as laid out in the Shortcut. Although it may be a slightly tedious setup, following through will allow for optimal functionality. If you need help, there is a Setup Guide (SETUP.md).
 
 Please note: It is **NOT RECOMMENDED** for you to make changes outside of the scope of the personalization setup. 
 
