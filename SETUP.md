@@ -1,0 +1,18 @@
+# Before we begin…
+Before even beginning we need to ensure your device is capable of running untrusted shortcuts. For a really easy tutorial, click [here](https://youtu.be/01BazgmGhZE) to watch a short video. If you’re already able to run untrusted shortcuts, then carry on to Step 1.
+
+# Step 1
+Before you can start playing around, you will need to download the latest version of the suite. Click [here](https://github.com/grandall95/ProjectPurple/releases) to pull up the releases and download the latest version of the software. The file will be aptly named under the Assets section “ProjectPurple_Suite_vVersionHere.zip”. Make sure you save this inside of your Downloads Folder either on your local device or inside of iCloud. Extract the ZIP Archive by tapping or right-clicking and clicking Extract. Go into the newly generated folder by the ZIP Archive and tap/click on each Shortcut one at a time. Shortcuts at this time should open and prompt you to add and setup each shortcut. It is **STRONGLY** recommended you do so or the shortcuts may not function as intended!
+
+# Step 2
+Once you’ve installed all 8 shortcuts in the suite, run FXE Update Manager, tap Getting Started and follow along with each step included. You will be prompted to first download two apps from the App Store (these are essential in making the rest of the setup process run smoothly as well as general operation of all the shortcuts). After this, you will be prompted to setup the DataJar Keys (this requires almost no end user interaction and is entirely automated as long as DataJar is installed).
+
+Downloading Assets: The shortcut does provide a link to get to the folder containing the files. However, you must click the corresponding calendar events (6 in total), and on the preview of the file, click/tap the three dots, and click/tap “View Raw”. Upon doing so, you will be prompted each time to add the event to the calendar. Do not worry about the Date/Time, just make sure when you add the events that the “Repeat Weekly” toggle is on. These assets will be updated as needed.
+
+# Step 3
+In the initial release, Step 5 is not needed and can be skipped. At this point, your customization settings, and all necessary data should be present!
+
+# Updating
+When an update is released, simply use the Updater feature inside of the FXE Update Manager and tap on Check for Updates. This will bring you to the releases page. In future versions a notification will be present to remind you of what current version of the suite you are on. Download the latest ZIP File (under Assets for the latest version the file will be aptly named “ProjectPurple_Suite_vVersionHere.zip”). Once downloaded to your Downloads Folder either on your local device or iCloud, go to the Updater Feature and tap on Manual Install. This will extract the file automatically and open the files app. You will be required to navigate to the newly created folder, and tap on each shortcut respectively. You may be asked to re-setup the shortcut with your personalization, please do so to ensure the correct information is available to maximize effectiveness of the Suite!
+
+*Note when on Step 5 inside the Getting Started Section of the Shortcut, three folders will be created. The parent Folder “FedEx” will be generated inside of your Documents folder on iCloud, and inside it will contain folders with names similar to Pay Audit and Timecards with your Station ID as the prefix.*
